@@ -14,9 +14,9 @@
 | 2026-03-18 | 최동호 | #6       | 최동호 소개문서 작성            | [소개 문서](./docs/members/members-dongho.md)                                                          |
 | 2026-03-18 | 최동호 | #16      | 최동호 추천 주제 문서 작성      | [주제 문서](./docs/topics/topic-dongho.md)                                                             |
 | 2026-03-18 | 좌진우 | #9       | 좌진우 소개문서 작성            | [소개문서](./docs/members/members.jinwoo.md)                                                           |
-| 2026-03-18 | 좌진우 | #11      | 좌진우 추천 주제 문서 작성      | [추천 주제 문서](./docs/topics/topics-jinwoo.md)                                                       |
+| 2026-03-18 | 좌진우 | #11      | 좌진우 추천 주제 문서 작성      | [추천 주제 문서](./docs/topics/topics-jinwoo.md)                                                       |     
 | 2026-03-18 | 송형진 | #10      | 송형진 소개문서 작성            | [..](https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EC%86%A1%ED%98%95%EC%A7%84.md) |
 | 2026-03-18 | 송형진 | #14      | 송형진 추천 주제 문서 작성      | [..](https://github.com/Chris-758/25-Git/blob/main/docs/topics/topic-%EC%86%A1%ED%98%95%EC%A7%84.md)   |
 | 2026-03-18 | 하헌찬 | #36      | 수정 이력 갱신                  |                                                                                                        |
-| 2026-03-18 | 도윤혁 | #31      | 도윤혁 소개문서 링크 추가       | [..](https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EB%8F%84%EC%9C%A4%ED%98%81.md) |
+| 2026-03-18 | 임도헌 | #34      | 임도헌 소개문서 링크 추가       | [..](https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EC%9E%84%EB%8F%84%ED%97%8C.md) |
 | 2026-03-18 | 도윤혁 | #31      | 도윤혁 추천 주체 문서 링크 추가 | [..](https://github.com/Chris-758/25-Git/blob/main/docs/topics/topics-%EB%8F%84%EC%9C%A4%ED%98%81.md)  |
