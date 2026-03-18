@@ -13,5 +13,5 @@
 | 2026-03-18 | 도윤혁 | #4 | 도윤혁 소개문서 작성 | |
 | 2026-03-18 | 도윤혁 | #12 | 도윤혁 추천 주제 문서 작성 | |
 | 2026-03-18 | 하헌찬 | #36 | 수정 이력 갱신 | |
-| 2026-03-18 | 도윤혁 | #31 | 도윤혁 소개문서 링크 추가 | https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EB%8F%84%EC%9C%A4%ED%98%81.md |
-| 2026-03-18 | 도윤혁 | #31 | 도윤혁 추천 주체 문서 링크 추가 | https://github.com/Chris-758/25-Git/blob/main/docs/topics/topics-%EB%8F%84%EC%9C%A4%ED%98%81.md |
+| 2026-03-18 | 도윤혁 | #31 | 도윤혁 소개문서 링크 추가 | [..](https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EB%8F%84%EC%9C%A4%ED%98%81.md) |
+| 2026-03-18 | 도윤혁 | #31 | 도윤혁 추천 주체 문서 링크 추가 | [..](https://github.com/Chris-758/25-Git/blob/main/docs/topics/topics-%EB%8F%84%EC%9C%A4%ED%98%81.md) |
