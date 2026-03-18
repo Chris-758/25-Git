@@ -5,8 +5,7 @@
 | 2026-03-18 | 홍길동 | 이슈번호 | README 초기 작성 |
 
 ## 수정 이력
-
-
+                                                                                              
 | 날짜       | 작성자 | 이슈번호 | 변경 내용                  | 링크                                          |
 | ---------- | ------ | -------- | -------------------------- | --------------------------------------------- |
 | 2026-03-18 | 도윤혁 | #20      | README 초기 작성           |                                               |
@@ -19,4 +18,5 @@
 | 2026-03-18 | 송형진 | #10      | 송형진 소개문서 작성       | [..](https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EC%86%A1%ED%98%95%EC%A7%84.md) |
 | 2026-03-18 | 송형진 | #14      | 송형진 추천 주제 문서 작성 | [..](https://github.com/Chris-758/25-Git/blob/main/docs/topics/topic-%EC%86%A1%ED%98%95%EC%A7%84.md)   |
 | 2026-03-18 | 하헌찬 | #36      | 수정 이력 갱신 |      |
-
+| 2026-03-18 | 도윤혁 | #31      | 도윤혁 소개문서 링크 추가       | https://github.com/Chris-758/25-Git/blob/main/docs/members/member-%EB%8F%84%EC%9C%A4%ED%98%81.md |
+| 2026-03-18 | 도윤혁 | #31      | 도윤혁 추천 주체 문서 링크 추가 | https://github.com/Chris-758/25-Git/blob/main/docs/topics/topics-%EB%8F%84%EC%9C%A4%ED%98%81.md  |
